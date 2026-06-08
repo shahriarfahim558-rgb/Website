@@ -1,5 +1,3 @@
-A new version is available. 
-(v1.12.0)
 • Added fully in app updater with installation #2
 • Added basic Android Auto support #2
 • Minor Ul improvements
