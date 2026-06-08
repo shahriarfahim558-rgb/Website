@@ -1,1 +1,11 @@
-hello fixed bug
+A new version is available. 
+(v1.12.0)
+• Added fully in app updater with installation #2
+• Added basic Android Auto support #2
+• Minor Ul improvements
+• Updated dependencies
+• Added Playlist creation/deletion feature
+• Added faster sources for stream resolution
+• Enabled picture in picture on home and settings screen
+• Fixed queue and repeat buttons covered by navbar #79
+• Fixed playlist name over
