@@ -1,3 +1,9 @@
+>> New Updates:
+• Added Video detection downloader
+• Added in app Video Player.
+• Many Bugs Fixed.
+• Security Updated.
+>>Old Updates:
 • Added fully in app updater with installation #2
 • Added basic Android Auto support #2
 • Minor Ul improvements
