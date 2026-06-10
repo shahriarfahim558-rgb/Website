@@ -1,0 +1,19 @@
+>> New Updates:
+â€¢ Added Video detection downloader
+â€¢ Added in app Video Player.
+â€¢ Added Speed meter when Downloading. â€¢ Fixed Notification bugs.
+â€¢ PIP (Picture in Picture) Mode Fixed. 
+â€¢ Media Player icons Changed. 
+â€¢ PIP Mode in Media Player.
+â€¢ Many Bugs Fixed.
+â€¢ Security Updated.
+>>Old Updates:
+â€¢ Added fully in app updater with installation #2
+â€¢ Added basic Android Auto support #2
+â€¢ Minor Ul improvements
+â€¢ Updated dependencies
+â€¢ Added Playlist creation/deletion feature
+â€¢ Added faster sources for stream resolution
+â€¢ Enabled picture in picture on home and settings screen
+â€¢ Fixed queue and repeat buttons covered by navbar #79
+â€¢ Fixed playlist name over
