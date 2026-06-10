@@ -1,6 +1,10 @@
 >> New Updates:
 • Added Video detection downloader
 • Added in app Video Player.
+• Added Speed meter when Downloading. • Fixed Notification bugs.
+• PIP (Picture in Picture) Mode Fixed. 
+• Media Player icons Changed. 
+• PIP Mode in Media Player.
 • Many Bugs Fixed.
 • Security Updated.
 >>Old Updates:
