@@ -1,5 +1,7 @@
 >> New Updates:
- Added Video detection downloader
+• Day/Night Mode Added. 
+• Now Shows Download Progress In Notification. 
+• Added Video detection downloader
 • Added in app Video Player.
 • Added Speed meter when Downloading. • Fixed Notification bugs.
 • PIP (Picture in Picture) Mode Fixed. 
