@@ -1,4 +1,5 @@
 >> New Updates:
+• Added fully in app updater with installation #2
 • Day/Night Mode Added. 
 • Now Shows Download Progress In Notification. 
 • Added Video detection downloader
@@ -10,7 +11,6 @@
 • Many Bugs Fixed.
 • Security Updated.
 >> Old Updates:
-• Added fully in app updater with installation #2
 • Added basic Android Auto support #2
 • Minor Ul improvements
 • Updated dependencies
