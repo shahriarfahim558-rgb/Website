@@ -1,4 +1,8 @@
 >> New Updates:
+• Fixed Media Player.
+• Moveable Floating Menu.
+• Detect video resulation in download pannel.
+• Optimizeed App.
 • Added fully in app updater with installation #2
 • Day/Night Mode Added. 
 • Now Shows Download Progress In Notification. 
@@ -10,6 +14,7 @@
 • PIP Mode in Media Player.
 • Many Bugs Fixed.
 • Security Updated.
+<-----++++++++++----->
 >> Old Updates:
 • Added basic Android Auto support #2
 • Minor Ul improvements
