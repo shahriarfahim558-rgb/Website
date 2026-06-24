@@ -1,4 +1,7 @@
->> New Updates:
+>> New Update (Coming soon)
+● A New App Was Coming Next.
+<-----++++++++++----->
+>> Mid Updates:
 • Fixed Media Player.
 • Moveable Floating Menu.
 • Detect video resulation in download pannel.
